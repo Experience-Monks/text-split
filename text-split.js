@@ -1,7 +1,7 @@
 
 /**
-* This function splits text from innerHTML with a separator. Then, it wrap sparated words with <span> except <br>
-* Finally, it returns all the span element in the newly inserted innerHTML
+* This function splits text from innerHTML based on regex. Then, it wrap sparated words with <span> except <br>
+* Finally, it returns array of span
 * @param {HTML element} element 
 * @param {string} split This is separator for text (regex)
 * @return {Array.<HTML element>} Array of span html element 
