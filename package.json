@@ -1,0 +1,35 @@
+{
+  "name": "text-split",
+  "version": "1.0.0",
+  "description": "Utility for splitting text into chunks based on regex.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Nick Poisson",
+    "email": "nick@jam3.com",
+    "url": "nick@jam3.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "*"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "text,",
+    "split,",
+    "regex,",
+    "array,",
+    "explode,",
+    "join"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/text-split.git"
+  },
+  "homepage": "https://github.com/Jam3/text-split",
+  "bugs": {
+    "url": "https://github.com/Jam3/text-split/issues"
+  }
+}
